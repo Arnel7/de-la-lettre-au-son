@@ -1,0 +1,69 @@
+# environnements
+venv/
+.venv/
+__pycache__/
+
+# gros fichiers regenerables
+voices/
+gruut_lang_fr_patched/
+
+# sorties de travail
+*.wav
+*.mp3
+essai.wav
+archive/
+!audios/*.wav
+
+# notes de preparation : ne pas publier
+plan.md
+plan-revise.md
+slides.md
+chaine-expliquee.md
+les-deux-moities.md
+verifications.md
+formulaire.md
+reponses-formulaire.txt
+abstract-a-coller.txt
+infos
+lexique-fongbe-consigne.md
+lexique-fongbe-modele.csv
+
+# correspondance privee
+reponses/
+
+# secrets
+.env
+infos
+infos *
+voices/
+clonage/.cle
+
+# sauvegarde périmée et script hors sujet
+notebook-indabax.SAUVEGARDE.ipynb
+ex.py
+
+# scripts de mise au point, remplaces par le notebook
+comparaison.py
+demo_couvent.py
+trace.py
+tts_couvent.py
+
+# le deck se construit depuis le gabarit officiel, qui ne se redistribue pas
+construire_deck.py
+photo-lawson.jpg
+photo-ronde.png
+
+# notes de scene : ne pas publier
+notes-de-scene.md
+matiere-par-slide.md
+
+# mais le fichier de repli du notebook, si
+!audios/clone-repli.mp3
+
+# les enregistrements du locuteur et le PDF du deck
+!audios/fongbe/*.wav
+!deck-indabax.pdf
+.DS_Store
+
+# la version annotee du deck : ne pas publier
+deck-indabax-notes.pptx

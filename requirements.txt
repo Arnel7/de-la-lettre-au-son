@@ -1,0 +1,10 @@
+# espeak-ng n'est pas un paquet pip : apt-get install espeak-ng
+# il sert de repli a l'etape 4a quand le micro n'est pas disponible
+gruut[fr]==2.4.0
+piper-tts>=1.7.0
+numpy
+transformers
+fongbe-g2p
+requests
+soundfile
+ipython
