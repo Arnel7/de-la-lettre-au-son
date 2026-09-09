@@ -9,9 +9,22 @@ Les quatre audios de l'ouverture (slide 03), dans l'ordre de passage.
                    le verbe se prononce comme le nom : gruut sort deux fois
                    la meme chose. C'est la panne reparee en seance, slide 07.
 
-3-fon-passe.wav    A PRODUIRE : phrase fongbé dans le domaine de mms-tts-fon
-4-fon-echoue.wav   A PRODUIRE : phrase fongbé hors domaine
-                   candidats : paire tonale minimale, nom propre, nombre
+3-fon-passe.wav    « E ɖɔ nu mi »   sans ton, comme tout le monde l'ecrit
+                   21 symboles recus, rien n'est jete. Le modele dit du
+                   fongbe correct : la synthese vocale fongbe existe.
+
+4-fon-echoue.wav   « É ɖɔ̀ nú mì »  les tons ecrits : « Il m'a dit »
+                   21 symboles aussi. L'accent grave de ɔ̀ est jete.
+                   Ecrire les tons ne change pas le resultat : mesure a
+                   bruit fixe, l'ecart est celui de deux tirages du modele.
+
+                   La question a poser apres l'audio 4 n'est PAS
+                   « entendez-vous une difference ? » mais
+                   « lequel des six sens venez-vous d'entendre ? ».
+                   Personne ne peut repondre : c'est la demonstration.
+
+Les deux fichiers fongbé sont produits par facebook/mms-tts-fon, 16 kHz a la
+source, reechantillonnes en 22050 Hz. UNE SEULE VARIABLE CHANGE : les tons.
 
 Les deux fichiers français sont produits par la MEME voix (Piper fr_FR-siwis-medium),
 via la chaîne du notebook. Une seule variable change : la phrase.
