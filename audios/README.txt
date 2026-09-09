@@ -13,7 +13,9 @@ Les quatre audios de l'ouverture (slide 03), dans l'ordre de passage.
                    21 symboles recus, rien n'est jete. Le modele dit du
                    fongbe correct : la synthese vocale fongbe existe.
 
-4-fon-echoue.wav   « É ɖɔ̀ nú mì »  les tons ecrits : « Il m'a dit »
+4-fon-echoue.wav   « È ɖɔ̀ nú mi »  les tons ecrits : « On vous a dit »
+                   choisi plutot que « Il m'a dit », qui est la lecture par
+                   defaut : la salle pourrait croire que le modele a devine.
                    21 symboles aussi. L'accent grave de ɔ̀ est jete.
                    Ecrire les tons ne change pas le resultat : mesure a
                    bruit fixe, l'ecart est celui de deux tirages du modele.
