@@ -3,10 +3,11 @@ Les quatre audios de l'ouverture (slide 03), dans l'ordre de passage.
 1-fr-passe.wav     « bonjour et bienvenue a indabax benin »
                    bɔ̃ʒuʁ e bjɛ̃vəny a ɛ̃dabaks bɛnɛ̃          rien ne casse
 
-2-fr-echoue.wav    « madame gbaguidi travaille a nyekonakpoe »
-                   madam ɡbaɡidi tʁavaj a nikɔnakpo
-                   attendu : ɲekɔnakpɔe
-                   le « ny » devient « ni », la syllabe finale disparaît
+2-fr-echoue.wav    « les poules du couvent couvent »
+                   le pul dy kuvɑ̃ kuvɑ̃
+                   attendu : le pul dy kuvɑ̃ kuv
+                   le verbe se prononce comme le nom : gruut sort deux fois
+                   la meme chose. C'est la panne reparee en seance, slide 07.
 
 3-fon-passe.wav    A PRODUIRE : phrase fongbé dans le domaine de mms-tts-fon
 4-fon-echoue.wav   A PRODUIRE : phrase fongbé hors domaine
