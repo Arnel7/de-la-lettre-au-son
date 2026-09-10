@@ -2,7 +2,8 @@
 
 ### Synthèse vocale, clonage, et ce qui manque à nos langues béninoises
 
-**Atelier · IndabaX Bénin 2026 · Track A1 · Cotonou, 11 septembre**
+**Atelier · IndabaX Bénin 2026 · Track principal B2 · Cotonou, 11 septembre**
+**14 h 10 – 15 h 10 · salle PREFAB, 50 places**
 
 ---
 
